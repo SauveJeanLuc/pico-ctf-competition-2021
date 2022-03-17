@@ -1,0 +1,11 @@
+tool: strings command
+
+picoCTF{H br1ng_y0H ur_0wn_kH dH34}
+picoCTF{Hbr1ng_y0Hur_0wn_kHdH34}
+
+picoCTF{br1ng_y0ur_0wn_kd34}
+k3y
+
+picoCTF{Hbr1ng_y0Hur_0wn_kHdH34%([]A\A]A^A_%02x
+
+112345678901234567890123456789012345
