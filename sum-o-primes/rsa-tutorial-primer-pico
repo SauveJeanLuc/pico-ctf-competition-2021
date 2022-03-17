@@ -1,0 +1,41 @@
+To encrypt and Decrypt RSA:
+
+We need:
+
+RSA public key: (e,n)
+
+RSA private key: (d,n)
+
+Message: m
+CipherText: c  
+
+To Encrypt m^e mod n = c 
+To Decrypt c^d mod n = m
+
+flag^e mod n = c
+
+c^d mod n = 
+
+Noting that: d --> is the private value of the private key.
+
+EXAMPLE:
+
+pbk(e,n) ==> (11, 117)
+prk(d,n) ==> (35, 117)
+
+i.e:
+e --> 11
+d --> 35
+
+m = 10
+
+Encrypt: 10^11 mod 117 = 82
+
+Decrypt: 82^35 mod 117 =  10
+
+==============================================================
+
+
+
+
+
